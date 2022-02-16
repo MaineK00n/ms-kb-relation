@@ -1,3 +1,4 @@
 *.json
+!manual.json
 !ms_kb.json
 !last_updated.json
